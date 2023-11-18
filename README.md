@@ -1,2 +1,2 @@
 # gol
-game of live in js/html canvas
+game of life in js/html canvas
